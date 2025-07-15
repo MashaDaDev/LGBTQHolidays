@@ -6,12 +6,12 @@ LGBTQ Community Calendar — made by a developer who is also a part of the LGBTQ
 
 ``` There are a number of days and months observed, celebrated, and honored by my LGBTQ community. While the list below is specific to LGBTQ-focused days, weeks, and months, LGBTQ people also observe and celebrate non-LGBTQ specific moments such as Black History Month, Latine Heritage Month, International Holocaust Remembrance Day, Mother’s Day, Father’s Day, Women’s History Month, and Indigenous Peoples’ Day. Media coverage of these and other non-LGBTQ focused moments should include LGBTQ people and the intersections of LGBTQ people and the respective topic. ```
 
-February ## Also Black History Month
+# February ## Also Black History Month
 
-# February 7: National Black HIV/AIDS Awareness Day
-# Week after Valentine’s Day: Aromantic Spectrum Awareness Week
+ February 7: National Black HIV/AIDS Awareness Day
+Week after Valentine’s Day: Aromantic Spectrum Awareness Week
 
-# February 28: **HIV Is Not A Crime** Awareness Day
+February 28: **HIV Is Not A Crime** Awareness Day
 
 # March
 
