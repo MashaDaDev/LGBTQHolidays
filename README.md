@@ -16,25 +16,45 @@ March
 
 March: Bisexual Health Awareness Month
 Week varies in March: National LGBT Health Awareness Week
+March 1: Zero Discrimination Day
 March 10: National Women & Girls HIV/AIDS Awareness Day
 March 20: National Native HIV/AIDS Awareness Day
 March 31: International Transgender Day of Visibility
 
 April
 
-April 6: International Asexuality DayApril 10: National Youth HIV/AIDS Awareness DayThird Friday of April: Day of SilenceApril 18: National Transgender HIV Testing DayApril 18: Nonbinary Parents DayApril 26: Lesbian Visibility Day
+The **Second Wednesday in April** — International Pink Day
+April 6: International Asexuality Day
+April 10: National Youth HIV/AIDS Awareness Day
+Third Friday of April: Day of Silence
+April 18: National Transgender HIV Testing Day
+April 18: Nonbinary Parents Day
+April 26: Lesbian Visibility Day
 
 May
 
-First Sunday In May: International Family Equality DayMay 17: International Day Against Homophobia, Transphobia, and BiphobiaMay 19: National Asian & Pacific Islander HIV/AIDS Awareness DayMay 22: Harvey Milk DayMay 24: Pansexual and Panromantic Awareness and Visibility Day
+First Sunday In May: International Family Equality Day
+May 17: International Day Against Homophobia, Transphobia, and Biphobia
+May 19: National Asian & Pacific Islander HIV/AIDS Awareness Day, and Agender Pride Day
+May 22: Harvey Milk Day
+May 24: Pansexual and Panromantic Awareness and Visibility Day
 
 June
 
-June: LGBTQ Pride MonthJune 1: LGBTQ Families DayJune 12: Pulse Remembrance June 15: Anniversary of U.S. Supreme Court Bostock decision expanding protections to LGBTQ employeesJune 26: Anniversary of U.S. Supreme Court legalizing marriage equalityJune 27: National HIV Testing DayJune 28: Stonewall DayJune 30: Queer Youth of Faith Day
+June: LGBTQ Pride Month ## Very important month for LGBTQ people <3
+June 1: LGBTQ Families Day
+June 5: Aromantic Visibility Day
+June 12: Pulse Remembrance 
+June 15: Anniversary of U.S. Supreme Court Bostock decision expanding protections to LGBTQ employees
+June 26: Anniversary of U.S. Supreme Court legalizing marriage equality
+June 27: National HIV Testing Day
+June 28: Stonewall Day
+June 30: Queer Youth of Faith Day
 
 July
 
-Week of July 14: Nonbinary Awareness Week, culminates in International Nonbinary People’s Day on July 14July 16: International Drag Day
+Week of July 14: Nonbinary Awareness Week, culminates in International Nonbinary People’s Day on July 14
+July 16: International Drag Day
 
 August
 
