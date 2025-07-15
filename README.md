@@ -55,7 +55,7 @@ June 28: Stonewall Day
 # July
 
 July 14: Nonbinary Awareness Week, culminates in International Nonbinary People’s Day on July 14
- July 16: International Drag Day
+July 16: International Drag Day
 
 # August
 
@@ -66,7 +66,7 @@ August 20: Southern HIV/AIDS Awareness Day
 
  September 18: National HIV/AIDS & Aging Awareness Day
  Week of September 23: Bisexual+ Awareness Week, culminates in Celebrate Bisexuality Day on September 23
- September 27: National Gay Men’s HIV/AIDS Awareness Day
+September 27: National Gay Men’s HIV/AIDS Awareness Day
 
 # October
 
