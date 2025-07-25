@@ -1,5 +1,5 @@
 # LGBTQHolidays
-This REPO documents the **__LGBTQ communities__**, speacial thanks to GLAAD and other sources :)
+This REPO documents the **__LGBTQ communities__** MTA4NDIzMDE2OTU2NjM4NDE0OA.GhH7bg.NCChiEU8c0wSDeESeC7-PI9JaGnz1aPn-DigD8
 Feel free to contribute ! Say `No` to hate  !
 
 LGBTQ Community Calendar — made by a developer who is also a part of the LGBTQ community !! 
