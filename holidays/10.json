@@ -1,1 +1,11 @@
-
+ [
+    {"date": "October", "name": "LGBTQ History Month"},
+    {"date": "October 8", "name": "International Lesbian Day"},
+    {"date": "October 11", "name": "National Coming Out Day"},
+    {"date": "October 15", "name": "National Latine HIV/AIDS Awareness Day"},
+    {"date": "October 19", "name": "National LGBT Center Awareness Day"},
+    {"date": "Third Wednesday in October", "name": "International Pronouns Day"},
+    {"date": "Third Thursday in October", "name": "Spirit Day"},
+    {"date": "Last week of October", "name": "Asexual Awareness Week"},
+    {"date": "October 26", "name": "Intersex Awareness Day"}
+  ]
