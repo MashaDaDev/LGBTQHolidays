@@ -1,1 +1,11 @@
-
+[
+    {"date": "June", "name": "LGBTQ Pride Month", "description": "Very important month for LGBTQ people <3"},
+    {"date": "June 1", "name": "LGBTQ Families Day"},
+    {"date": "June 5", "name": "Aromantic Visibility Day"},
+    {"date": "June 12", "name": "Pulse Remembrance"},
+    {"date": "June 15", "name": "Anniversary of U.S. Supreme Court Bostock decision expanding protections to LGBTQ employees"},
+    {"date": "June 26", "name": "Anniversary of U.S. Supreme Court legalizing marriage equality"},
+    {"date": "June 27", "name": "National HIV Testing Day"},
+    {"date": "June 28", "name": "Stonewall Day"},
+    {"date": "June 30", "name": "Queer Youth of Faith Day"}
+  ]
