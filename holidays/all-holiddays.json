@@ -1,0 +1,80 @@
+{
+  "1": [],
+  "2": [
+    {"date": "February 7", "name": "National Black HIV/AIDS Awareness Day"},
+    {"date": "Week after Valentine’s Day", "name": "Aromantic Spectrum Awareness Week"},
+    {"date": "February 28", "name": "HIV Is Not A Crime Awareness Day"},
+    {"date": "February", "name": "Black History Month", "description": "Black Lives will always matter"}
+  ],
+  "3": [
+    {"date": "March", "name": "Bisexual Health Awareness Month"},
+    {"date": "Week varies in March", "name": "National LGBT Health Awareness Week"},
+    {"date": "March 1", "name": "Zero Discrimination Day"},
+    {"date": "March 10", "name": "National Women & Girls HIV/AIDS Awareness Day"},
+    {"date": "March 20", "name": "National Native HIV/AIDS Awareness Day"},
+    {"date": "March 31", "name": "International Transgender Day of Visibility"}
+  ],
+  "4": [
+    {"date": "Second Wednesday in April", "name": "International Pink Day"},
+    {"date": "April 6", "name": "International Asexuality Day"},
+    {"date": "April 10", "name": "National Youth HIV/AIDS Awareness Day"},
+    {"date": "Third Friday of April", "name": "Day of Silence"},
+    {"date": "April 18", "name": "National Transgender HIV Testing Day"},
+    {"date": "April 18", "name": "Nonbinary Parents Day"},
+    {"date": "April 26", "name": "Lesbian Visibility Day"}
+  ],
+  "5": [
+    {"date": "First Sunday in May", "name": "International Family Equality Day"},
+    {"date": "May 17", "name": "International Day Against Homophobia, Transphobia, and Biphobia"},
+    {"date": "May 19", "name": "National Asian & Pacific Islander HIV/AIDS Awareness Day"},
+    {"date": "May 19", "name": "Agender Pride Day"},
+    {"date": "May 22", "name": "Harvey Milk Day"},
+    {"date": "May 24", "name": "Pansexual and Panromantic Awareness and Visibility Day"}
+  ],
+  "6": [
+    {"date": "June", "name": "LGBTQ Pride Month", "description": "Very important month for LGBTQ people <3"},
+    {"date": "June 1", "name": "LGBTQ Families Day"},
+    {"date": "June 5", "name": "Aromantic Visibility Day"},
+    {"date": "June 12", "name": "Pulse Remembrance"},
+    {"date": "June 15", "name": "Anniversary of U.S. Supreme Court Bostock decision expanding protections to LGBTQ employees"},
+    {"date": "June 26", "name": "Anniversary of U.S. Supreme Court legalizing marriage equality"},
+    {"date": "June 27", "name": "National HIV Testing Day"},
+    {"date": "June 28", "name": "Stonewall Day"},
+    {"date": "June 30", "name": "Queer Youth of Faith Day"}
+  ],
+  "7": [
+    {"date": "July 14", "name": "Nonbinary Awareness Week, culminates in International Nonbinary People’s Day"},
+    {"date": "July 16", "name": "International Drag Day"}
+  ],
+  "8": [
+    {"date": "August 14", "name": "Gay Uncles Day"},
+    {"date": "August 20", "name": "Southern HIV/AIDS Awareness Day"}
+  ],
+  "9": [
+    {"date": "September 18", "name": "National HIV/AIDS & Aging Awareness Day"},
+    {"date": "Week of September 23", "name": "Bisexual+ Awareness Week, culminates in Celebrate Bisexuality Day on September 23"},
+    {"date": "September 27", "name": "National Gay Men’s HIV/AIDS Awareness Day"}
+  ],
+  "10": [
+    {"date": "October", "name": "LGBTQ History Month"},
+    {"date": "October 8", "name": "International Lesbian Day"},
+    {"date": "October 11", "name": "National Coming Out Day"},
+    {"date": "October 15", "name": "National Latine HIV/AIDS Awareness Day"},
+    {"date": "October 19", "name": "National LGBT Center Awareness Day"},
+    {"date": "Third Wednesday in October", "name": "International Pronouns Day"},
+    {"date": "Third Thursday in October", "name": "Spirit Day"},
+    {"date": "Last week of October", "name": "Asexual Awareness Week"},
+    {"date": "October 26", "name": "Intersex Awareness Day"}
+  ],
+  "11": [
+    {"date": "First Sunday of November", "name": "Transgender Parent Day"},
+    {"date": "November 13-19", "name": "Transgender Awareness Week"},
+    {"date": "November 20", "name": "Transgender Day of Remembrance"}
+  ],
+  "12": [
+    {"date": "December 1", "name": "World AIDS Day"},
+    {"date": "December 8", "name": "Pansexual/Panromantic Pride Day"},
+    {"date": "December 14", "name": "HIV Cure Research Day"}
+  ]
+}
+
